@@ -3,9 +3,7 @@
 * Submitted by : Jaideep Rangnekar
 * Registered email id : jaideepmr@gmail.com
 
-## Objective to achieve the use of RESNET18 model on the CIFAR-10 dataset:
-
-Assignment: 
+## Assignment: 
 
 1. Pick your last code
 2. Add CutOut to your code. It should come from your transformations (albumentations)
